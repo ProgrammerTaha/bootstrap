@@ -1,0 +1,31 @@
+body {
+  background-color: rgb(239, 217, 202);
+}
+
+h1 {
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.container {
+  background-color: rgb(239, 217, 202);
+  margin: 10px 10px 10px 250px;
+}
+
+
+
+.column1,
+column2 {
+  padding: 35px;
+  margin: 1px;
+}
+
+[class*="column1"] {
+  background-color: rgb(0, 0, 0);
+  border: 5px solid rebeccapurple;
+}
+
+[class*="column2"] {
+  background-color: rgb(255, 2, 2);
+  border: 5px solid rgb(93, 206, 187);
+}
