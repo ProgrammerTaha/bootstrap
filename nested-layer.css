@@ -1,0 +1,31 @@
+body {
+  background-color: blueviolet;
+}
+
+h1 {
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.container {
+  background-color: blue;
+  padding: 30px;
+}
+.row1 {
+  background-color: rgb(5, 46, 36);
+  margin: 1px;
+  padding: 90px;
+}
+
+.column1 {
+  background-color: rgb(83, 74, 168);
+  margin: 2px;
+  padding: 200px 70px;
+}
+
+.column {
+  background-color: brown;
+  border: 2px solid rgb(93, 206, 187);
+  padding: 70px;
+  margin: 10px;
+}
